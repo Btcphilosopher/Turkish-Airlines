@@ -1,0 +1,6 @@
+{
+  "name": "Turkish Airlines",
+  "description": "Premium Turkish Airlines mobile application for flight booking, seat selection, digital boarding passes, and Miles&Smiles integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
